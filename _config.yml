@@ -1,12 +1,10 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
-url: http://www.liuhuachao.com/blog
+# Basic
 date_format: "ordinal"
 title: 刘华超
 subtitle: "刘华超的个人博客""
 description: "刘华超的个人博客"
 keywords: 刘华超, 博客，blog，Github
+url: "http://www.liuhuachao.com/blog"
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
