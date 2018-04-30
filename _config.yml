@@ -1,5 +1,6 @@
-# Basic
-date_format: "ordinal"
+# ---------------- #
+#      Config      #
+# ---------------- #
 title: 刘华超
 subtitle: "刘华超的个人博客""
 description: "刘华超的个人博客"
@@ -13,7 +14,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: liuhuachao
-organization: zkh360.com
+organization: http://www.liuhuachao.com
 organization_url: http://www.liuhuachao.com
 github_username: liuhuachao
 location: Shenzhen, China
