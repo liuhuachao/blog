@@ -1,7 +1,6 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
 url: http://www.liuhuachao.com/blog
 date_format: "ordinal"
 title: 刘华超
