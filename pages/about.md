@@ -1,14 +1,12 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: 刘华超的个人博客
 keywords: 刘华超，故乡的风，博客，blog，Github
 comments: true
 menu: 关于
 permalink: /about/
 ---
-
-我是刘华超~仰望星空，脚踏实地！
 
 
 ## 联系
