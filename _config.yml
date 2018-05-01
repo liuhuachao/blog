@@ -81,7 +81,7 @@ repository: blog/liuhuachao.github.io
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitment
+comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
@@ -98,8 +98,9 @@ gitment:
 gitalk:
     owner: liuhuachao
     repo: blog
-    client_id: f8a28a04e8e2ee919e8f
-    client_secret: aee4fe6feac92961ae0ffc1393f1ee1f4126e9d0 
+    oauth:
+        client_id: f8a28a04e8e2ee919e8f
+        client_secret: aee4fe6feac92961ae0ffc1393f1ee1f4126e9d0 
 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
