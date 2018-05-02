@@ -8,7 +8,7 @@ keywords: 刘华超, 博客，blog，Github
 url: "http://www.liuhuachao.com/blog"
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 3
 
 # ---------------- #
 #      Author      #
@@ -25,8 +25,12 @@ email: liuhuachao@foxmail.com
 # ---------------- #
 navs:
   -
-    href: /
+    href: http://www.liuhuachao.com
     label: 首页
+
+  -
+    href: /
+    label: 博客    
 
   -
     href: /categories/
